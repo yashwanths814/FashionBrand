@@ -1,1 +1,1 @@
-A Static web application bulit using html,css and Javascript. 
+A Static web application bulit using html and css. 
