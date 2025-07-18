@@ -1,4 +1,4 @@
-# 👗 FashionBrand
+# FashionBrand
 
 A sleek and responsive static web application built using **HTML** and **CSS**, showcasing a modern fashion brand landing page.
 
