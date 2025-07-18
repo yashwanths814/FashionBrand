@@ -4,7 +4,6 @@ A sleek and responsive static web application built using **HTML** and **CSS**, 
 
 🌐 **Live Demo**: [FashionBrand Website](https://yashwanths814.github.io/FashionBrand/)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -13,7 +12,6 @@ A sleek and responsive static web application built using **HTML** and **CSS**, 
 - **Ionicons** – Iconography
 - **Google Fonts** – Typography
 
----
 
 ## ✨ Features
 
@@ -23,7 +21,6 @@ A sleek and responsive static web application built using **HTML** and **CSS**, 
 - Typography powered by Google Fonts
 - Icon support via Ionicons
 
----
 
 ## 🚀 Getting Started
 
